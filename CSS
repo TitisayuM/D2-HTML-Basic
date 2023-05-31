@@ -4,11 +4,19 @@
     <title>My Introduction Page</title> 
 
     <style>
+    /*Universal Selector*/
     * {
       margin: 10px;
       padding: 10px;
       box-sizing: border-box;
     }
+    h1 {
+      font-size: 36px;
+      text-align: center;
+      color: blue;
+    }
+
+
   </head>
 
   <body>
